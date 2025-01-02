@@ -4,10 +4,11 @@ Développeur Full Stack passionné avec plus de 20 ans d'expérience en relation
 
 ## À propos de moi
 
-- 🎓 Formation intensive en développement Full Stack à Holberton School
-- 🔧 Expert en support technique niveau 2 chez Neuf Télécom sur des réseaux Backbone MPLS (2002-2008)
+- 🎓 Formation intensive en développement Full Stack à Holberton School (un RNCP5 : en 9 mois !! )
+- 🔧 Expert en support technique niveau 2 chez Neuf Télécom sur des réseaux Backbone MPLS (2002-2008) : Meilleure expérience pro (Merci éthernet à Fréd Bareigts !)
 - 📸 Photographe professionnel diplômé de Speos Institut (2008)
 - 🌐 Passionné d'infrastructure et d'auto-hébergement
+- 🔭 Passionné d'astronomie et d'astrophotographie
 
 ## Compétences Techniques
 
