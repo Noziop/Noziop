@@ -1,61 +1,91 @@
-# Bonjour, je suis @Noziop (aka Fassih Belmokhtar) 👋
+# Hello there!
+*INSERT INTO readme (subtitle) VALUES (General Kenobi!)*
 
-Développeur Full Stack passionné avec plus de 20 ans d'expérience en relation client et une solide culture tech autodidacte depuis 1998. Actuellement en formation à Holberton School Thonon-les-Bains.
+I'm Fassih! 👋
 
-## À propos de moi
+## 💻 Full-Stack Developer | DevOps Enthusiast
 
-- 🎓 Formation intensive en développement Full Stack à Holberton School (un RNCP5 : en 9 mois !! )
-- 🔧 Expert en support technique niveau 2 chez Neuf Télécom sur des réseaux Backbone MPLS (2002-2008) : Meilleure expérience pro (Merci éthernet à Fréd Bareigts !)
-- 📸 Photographe professionnel diplômé de Speos Institut (2008)
-- 🌐 Passionné d'infrastructure et d'auto-hébergement
-- 🔭 Passionné d'astronomie et d'astrophotographie
+**Problem-solver by nature** - I identify pain points and build innovative solutions  
+**Recent graduate** Full-Stack Development @HolbertonSchool 
+**Passionate about** automation, developer experience, and eliminating repetitive tasks  
+**Philosophy**: If it's manual and repetitive, it should be automated ⚡
+**Located in** Thonon-Les-Bains, France 🏔️
 
-## Compétences Techniques
+## 🎯 My Approach
 
-**Languages et Technologies :**
-- Backend : C, Python, PHP, JavaScript/TypeScript
-- Frontend : Vue.js, HTML/CSS
-- DevOps : Docker, Linux, Infrastructure réseau, automatisation via shell-sxrip
-- Bases de données : MariaDB, SQL
-- Outils : Git, Redis, Celery
+**Identify → Innovate → Automate → Scale**
 
-## Projets Phares
+I don't just write code, I solve problems:
+- 🔍 **Spot inefficiencies** in my daily workflows  
+- 💡 **Design solutions** that eliminate friction
+- 🔧 **Build tools** that others actually want to use
+- 📈 **Think product** - from MVP to business model (like ErrorAPI concept (**spoiler alert !**))
 
-**🌟 StellarStudio** - **WIP**
-- Architecture containerisée et distrubuée, pour le traitement d'images astronomiques
-- Stack : FastAPI, Vue 3, MariaDB, Redis, Traefik
-- Monitoring avec Prometheus et Grafana
+*Examples*: Tired of Docker setup → Built MKDF | Need better backups for my projects → Created s4v3my4ss with network discovery
 
-**🎯 Holberton Rituals** - **WIP**
-- Application de gestion des rituels étudiants
-- stack : PHP Slim, MariaDB
-- Auto-hébergé sur NAS Synology visible à l'adresse :  [Holberton Rituals](https:///www.fassih.fr)  (login / Mdp : swe / password)
+## 🛠️ Featured Projects
 
-**🏆 1Btn** - **WIP**
-- Application d'alerte pour personnes victimes de violences
-- Prix Orange au hackathon "Episode 5G : Return of the GenAi"
+### 🔧 [MKDF](https://github.com/Noziop/mkdf) - Project Generation Revolution
+***Currently evolving from C to Python for better developer experience***
+*"I was tired of setting up Docker projects manually every time"*  
+→ **One command creates complete development environments**
+- **The Problem**: Developers waste hours on project setup, port conflicts, boilerplate
+- **My Solution**: Smart project generator with automatic port and docker-subnet detection and Docker orchestration  
+- **Innovation**: Zero-config approach - just say what you want, MKDF handles the complexity
+- **Impact**: milliseconds instead of hours for project initialization
 
-## Langues
+### 💾 [s4v3my4ss](https://github.com/Noziop/s4v3my4ss) - Enterprise Backup System
+*"Why do enterprise backup solutions cost thousands when you just need reliability?"*  
+→ **Production-ready backup system with zero-config network discovery**
+- **The Problem**: Small teams need enterprise-grade backups without enterprise budgets or complexity
+- **My Solution**: Intelligent backup system that discovers your infrastructure and just works
+- **Innovation**: Automatic rsync server detection, incremental backups, and elegant CLI interface  
+- **Impact**: From manual backups chaos to automated peace of mind
+- **Tech**: Go architecture, network scanning, rsync optimization, interactive CLI
+- **Approach**: AI-assisted development to explore Go while maintaining focus on system design
 
-- 🇫🇷 Français (Natif)
-- 🇬🇧 Anglais (C1)
-- 🇮🇹 Italien (A1)
-- 🇩🇪 Allemand (A1)
+## 🌟 [Stellar Studio](https://github.com/Noziop/stellar-studio) - Astrophotography Platform
+***PoC - Next version incoming with enhanced microservices architecture***
+*"Processing telescope data shouldn't require a PhD in astronomy software"*  
+→ **User-friendly (for beginners) platform for space telescope image processing**
+- **The Problem**: FITS astronomical data is complex, existing tools are researcher-focused and intimidating
+- **My Solution**: Modern web platform making astrophotography accessible with intuitive workflows
+- **Innovation**: Microservices architecture (FastAPI + Vue.js) with real-time processing monitoring and automated image processing pipelines.
+- **Vision**: Bridge between raw telescope data and stunning final images for astronomy enthusiasts
+- **Tech**: FastAPI, Vue.js, MariaDB, Docker, Prometheus monitoring
 
-## Contact
+### 🎲 [SOD Tirage](https://github.com/Noziop/SOD_Speaker-Of-the-Day_Drawing_system) - PHP Learning Project
+*"Learning PHP/Slim by tackling a real classroom challenge"*  
+→ **Personal project to master new framework through practical problem-solving**
+- **Learning Goal**: Master PHP/Slim framework beyond basic tutorials
+- **Inspiration**: Daily speaker selection at @HolbertonSchool (no automated system)
+- **My Approach**: Build a constraint-based solution instead of doing theoretical exercises
+- **Challenge**: Implement fair distribution algorithm with business rules (preferences, history) - *still needs improvement, though*
+- **Outcome**: Solid PHP/Slim skills + functional MVP (though never deployed at school)
+- **Lesson**: Learning through real problem-solving beats tutorials every time
 
-- 📫 GitHub : @Noziop
-- 📧 mail : contact@fassih.ch
-- 🔑 Message secret : "my very dear holbie" (so i know you've visited my github)
+## 💻 Technical Skills
 
-## Fun fact
+**Core Languages**: Python, JavaScript, C  
+**AI-Assisted Development**: Go (project architecture & system design), CLI design
+**Web Technologies**: FastAPI, Vue.js, HTML/CSS, REST APIs  
+**DevOps Tools**: Docker, microservices architecture, monitoring concepts  
+**Infrastructure**: Linux, networking, backup systems, rsync, NAS  
+**Database**: MariaDB, SQL  
+**Development**: Git, automation scripting
 
-⚡ Noziop est "Poizon" à l'envers - Un clin d'œil à ma passion pour le debugging et le troubleshooting !
+## 🎯 Currently
 
+- 🎓 **Learning**:  DevOps practices and infrastructure automation
+- 🔬 **Exploring**: Scientific computing and astrophotography data processing, Machine Learning, curious about everything...
+- 🚀 **Building**: Next-generation developer tools and enterprise systems
+- 📊 **Interested in**: Computer Science, Astronomy, Physics
 
+## 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fassih-belmokhtar/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:contact@fassih.ch)
 
-<!---
-Noziop/Noziop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+*"Transforming ideas into scalable solutions, one commit at a time"* ⚡
