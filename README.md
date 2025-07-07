@@ -1,7 +1,7 @@
 # Hello there!
 *INSERT INTO readme (subtitle) VALUES (General Kenobi!)*
 
-I'm Fassih! 👋
+## I'm Fassih! 👋
 
 ## 💻 Full-Stack Developer | DevOps Enthusiast
 
@@ -64,10 +64,18 @@ I don't just write code, I solve problems:
 - **Outcome**: Solid PHP/Slim skills + functional MVP (though never deployed at school)
 - **Lesson**: Learning through real problem-solving beats tutorials every time
 
+### 🚀 [Portfolio Interactive](https://github.com/Noziop/portfolio) - 3D Space Exploration
+*"Why settle for static portfolios when you can explore your projects in 3D space?"*
+→ **Immersive 3D interface built with Vue.js + Three.js**
+- **Innovation**: Interactive space exploration metaphor for project presentation
+- **Tech**: Vue 3 Composition API, Three.js rendering, advanced CSS animations
+- **Features**: Real-time radar, planetary navigation, performance monitoring HUD
+- **Vision**: Future of scientific data visualization and immersive interfaces
+
 ## 💻 Technical Skills
 
 **Core Languages**: Python, JavaScript, C  
-**AI-Assisted Development**: Go (project architecture & system design), CLI design
+**AI-Assisted Development**: Go (project architecture & system design), CLI design, three.js
 **Web Technologies**: FastAPI, Vue.js, HTML/CSS, REST APIs  
 **DevOps Tools**: Docker, microservices architecture, monitoring concepts  
 **Infrastructure**: Linux, networking, backup systems, rsync, NAS  
@@ -77,7 +85,7 @@ I don't just write code, I solve problems:
 ## 🎯 Currently
 
 - 🎓 **Learning**:  DevOps practices and infrastructure automation
-- 🔬 **Exploring**: Scientific computing and astrophotography data processing, Machine Learning, curious about everything...
+- 🔬 **Exploring**: Scientific computing and astrophotography data processing, Machine Learning, web 3D, curious about everything...
 - 🚀 **Building**: Next-generation developer tools and enterprise systems
 - 📊 **Interested in**: Computer Science, Astronomy, Physics
 
