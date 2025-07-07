@@ -64,7 +64,7 @@ I don't just write code, I solve problems:
 - **Outcome**: Solid PHP/Slim skills + functional MVP (though never deployed at school)
 - **Lesson**: Learning through real problem-solving beats tutorials every time
 
-### 🚀 [Portfolio Interactive](https://github.com/Noziop/portfolio) - 3D Space Exploration
+### 🚀 [Portfolio Interactive](https://github.com/Noziop/portfolio) [DEMO](https://www.fassih.fr) - 3D Space Exploration
 *"Why settle for static portfolios when you can explore your projects in 3D space?"*
 → **Immersive 3D interface built with Vue.js + Three.js**
 - **Innovation**: Interactive space exploration metaphor for project presentation
@@ -75,7 +75,7 @@ I don't just write code, I solve problems:
 ## 💻 Technical Skills
 
 **Core Languages**: Python, JavaScript, C  
-**AI-Assisted Development**: Go (project architecture & system design), CLI design, three.js
+**AI-Assisted Development - Learing purpose**: Go (project architecture & system design), CLI design, three.js
 **Web Technologies**: FastAPI, Vue.js, HTML/CSS, REST APIs  
 **DevOps Tools**: Docker, microservices architecture, monitoring concepts  
 **Infrastructure**: Linux, networking, backup systems, rsync, NAS  
@@ -85,7 +85,7 @@ I don't just write code, I solve problems:
 ## 🎯 Currently
 
 - 🎓 **Learning**:  DevOps practices and infrastructure automation
-- 🔬 **Exploring**: Scientific computing and astrophotography data processing, Machine Learning, web 3D, curious about everything...
+- 🔬 **Exploring**: Scientific computing and astrophotography data processing, Machine Learning, web 3D with ThreeJS, curious about everything...
 - 🚀 **Building**: Next-generation developer tools and enterprise systems
 - 📊 **Interested in**: Computer Science, Astronomy, Physics
 
