@@ -1,9 +1,6 @@
 # Hello there!
 *INSERT INTO readme (subtitle) VALUES (General Kenobi!)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noziop&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noziop&layout=compact)
-
 ## I'm Fassih! 👋
 
 ## 💻 Full-Stack Developer | DevOps Enthusiast
