@@ -1,6 +1,9 @@
 # Hello there!
 *INSERT INTO readme (subtitle) VALUES (General Kenobi!)*
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noziop&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noziop&layout=compact)
+
 ## I'm Fassih! 👋
 
 ## 💻 Full-Stack Developer | DevOps Enthusiast
@@ -34,7 +37,7 @@ I don't just write code, I solve problems:
 - **Innovation**: Zero-config approach - just say what you want, MKDF handles the complexity
 - **Impact**: milliseconds instead of hours for project initialization
 
-### 💾 [s4v3my4ss](https://github.com/Noziop/s4v3my4ss) - Enterprise Backup System
+### 💾 [Save-me from myself](https://github.com/Noziop/save-me_from_myself) - Enterprise Backup System
 *"Why do enterprise backup solutions cost thousands when you just need reliability?"*  
 → **Production-ready backup system with zero-config network discovery**
 - **The Problem**: Small teams need enterprise-grade backups without enterprise budgets or complexity
@@ -44,7 +47,7 @@ I don't just write code, I solve problems:
 - **Tech**: Go architecture, network scanning, rsync optimization, interactive CLI
 - **Approach**: AI-assisted development to explore Go while maintaining focus on system design
 
-## 🌟 [Stellar Studio](https://github.com/Noziop/stellar-studio) - Astrophotography Platform
+### 🌟 [Stellar Studio](https://github.com/Noziop/stellar-studio) - Astrophotography Platform
 ***PoC - Next version incoming with enhanced microservices architecture***
 *"Processing telescope data shouldn't require a PhD in astronomy software"*  
 → **User-friendly (for beginners) platform for space telescope image processing**
@@ -64,7 +67,7 @@ I don't just write code, I solve problems:
 - **Outcome**: Solid PHP/Slim skills + functional MVP (though never deployed at school)
 - **Lesson**: Learning through real problem-solving beats tutorials every time
 
-### 🚀 [Portfolio Interactive](https://github.com/Noziop/portfolio) [DEMO](https://www.fassih.fr) - 3D Space Exploration
+### 🚀 [Portfolio Interactive](https://github.com/Noziop/3D-portfolio-a-journey-through-space) [Live DEMO](https://www.fassih.fr) - 3D Space Exploration
 *"Why settle for static portfolios when you can explore your projects in 3D space?"*
 → **Immersive 3D interface built with Vue.js + Three.js**
 - **Innovation**: Interactive space exploration metaphor for project presentation
