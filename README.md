@@ -64,7 +64,7 @@ I don't just write code, I solve problems:
 - **Outcome**: Solid PHP/Slim skills + functional MVP (though never deployed at school)
 - **Lesson**: Learning through real problem-solving beats tutorials every time
 
-### 🚀 [Portfolio Interactive](https://github.com/Noziop/3D-portfolio-a-journey-through-space) [Live DEMO](https://www.fassih.fr) - 3D Space Exploration
+### 🚀 [Portfolio Interactive](https://github.com/Noziop/3D-portfolio-a-journey-through-space)- 3D Space Exploration
 *"Why settle for static portfolios when you can explore your projects in 3D space?"*
 → **Immersive 3D interface built with Vue.js + Three.js**
 - **Innovation**: Interactive space exploration metaphor for project presentation
